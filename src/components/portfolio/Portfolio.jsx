@@ -55,6 +55,7 @@ export default function Portfolio() {
           title: "Content",
         },
       ];
+
     
     return (
         <div className="portfolio" id="portfolio"> 
@@ -78,8 +79,10 @@ export default function Portfolio() {
                 <h3>{d.title}</h3>
             </div> 
             ))}
-            
+
        </div>
+       <span style={{color:"red"}}> Please note website is also used to display UI skills. Pls feel free to see my github for full project list </span>
+
     </div>
     )
 }

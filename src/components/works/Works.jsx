@@ -7,27 +7,27 @@ export default function Works() {
       {
         id: "1",
         icon: "../assets/mobile.png",
-        title: "Web Design",
+        title: "Portfolio",
         desc:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+          "Created This Portfolio App using React, JSX, HTML & CSS",
         img:
           "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
       },
       {
         id: "2",
         icon: "../assets/globe.png",
-        title: "Mobile Application",
+        title: "Web design",
         desc:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "E-commerce application (Online food vendor) created using HTML CSS & JS - Pls see Github",
         img:
           "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
       },
       {
         id: "3",
         icon: "../assets/writing.png",
-        title: "Branding",
+        title: "Desktop Application",
         desc:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "Printing Application created using Python -Pls see Github",
         img:
           "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
       },
@@ -56,6 +56,8 @@ export default function Works() {
                     <h2>{d.title}</h2>
                     <p>{d.desc}</p>
                     <span>Projects</span>
+                    <a href="https://github.com/Evantech">https://github.com/Evantech</a>
+
                   </div>
                 </div>
                 <div className="right">

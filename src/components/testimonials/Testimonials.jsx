@@ -5,13 +5,13 @@ export default function Testimonials() {
     {
       id: 1,
       name: "Salweyar Patel",
-      title: "Junior Developer",
+      title: "Intermediate Developer",
       img:
         "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "I worked on an API contract Project with Evans Odiaka. He has been a tremendous member to the project and asset to the team." 
-        +"Excells in C# dotnet envionment and Always eager to assist other team members, a true team player",
+        "I had the opportunity to work with Evans Odiaka at kidco construction LTD. He has been a tremendous member to the project and asset to the team." 
+        +"He Excells in C# dotnet envionment, an eager learner and always willing to assist other team members. A true team player",
     },
     {
       id: 2,

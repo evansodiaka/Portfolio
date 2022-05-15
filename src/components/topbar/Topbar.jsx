@@ -6,7 +6,7 @@ import {Person, Mail} from "@material-ui/icons"
         <div className={"topbar " + (menuOpen && "active")} >
             <div className="wrapper">
                 <div className="left">
-                    <a href="#intro" className="logo">genius.</a>
+                    <a href="#intro" className="logo">Portfolio.</a>
 
                     <div className="itemContainer">
                         <Person className= "icon"/>
@@ -15,6 +15,10 @@ import {Person, Mail} from "@material-ui/icons"
                     <div className="itemContainer">
                         <Mail className="icon"/>
                         <span> evansodiaka@gmail.com</span>
+                    </div>
+                    <div className="itemContainer">
+                        <Mail className="icon"/>
+                        <a href="https://github.com/Evantech">https://github.com/Evantech</a>
                     </div>
                 </div>
                 <div className="right">
