@@ -18,7 +18,7 @@ import {Person, Mail} from "@material-ui/icons"
                     </div>
                     <div className="itemContainer">
                         <Mail className="icon"/>
-                        <a href="https://github.com/Evantech">https://github.com/Evantech</a>
+                        <a href="https://github.com/Evantech">see Github</a>
                     </div>
                 </div>
                 <div className="right">
