@@ -7,7 +7,7 @@ export default function Testimonials() {
       name: "Salweyar Patel",
       title: "Intermediate Developer",
       img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "assets/1610637753822.jpeg",
       icon: "assets/linkedin.png",
       desc:
         "I had the opportunity to work with Evans Odiaka at kidco construction LTD. He has been a tremendous member to the project and asset to the team." 
