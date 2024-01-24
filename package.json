@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^12.8.3",
     "babel": "^6.23.0",
     "ityped": "^1.0.3",
-    "node-sass": "^6.0.1",
+    "node-sass": "^9.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider gatsby build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
